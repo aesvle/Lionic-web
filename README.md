@@ -1,2 +1,4 @@
 # Lionic-web
-A fully responsive digital agency landing page built with HTML5 and CSS3. Features custom media queries for mobile-first design and clean semantic markup.
+A fully responsive digital agency landing page built with HTML5 and CSS3.
+Developed based on Figma design mockups using BEM methodology and modern layout techniques (Flexbox).
+Features semantic markup, mobile-first media queries, and cross-browser compatibility.
