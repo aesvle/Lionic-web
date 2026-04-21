@@ -1,14 +1,14 @@
-# Lionic - Digital Agency Landing Page
+# Lionic - Legal Services Landing Page
 
 ![Project Preview](preview.png)
 ## [View Live Demo](https://aesvle.github.io/Lionic-web/)
 
-A modern, fully responsive landing page for a digital agency, translated from a Figma mockup. This project showcases advanced responsive design techniques and a clean user interface.
+A modern, responsive landing page for a legal/consulting service, built from a Figma design. This project focuses on clean layout structure, responsive behavior, and pixel-accurate implementation.
 
 ## Key Features:
 
-* **Mobile-First Approach:** Optimized for all screen sizes (Mobile, Tablet, Desktop) using custom media queries.
-* **Layout & Design:** Built with **Flexbox** for a fluid layout and precise alignment of interface elements.
-* **Assets:** Integrated and optimized **SVG graphics** for high-quality visuals and fast loading speeds.
-* **Modern CSS:** Organized and efficient styling with a focus on maintainability and cross-browser compatibility.
-
+* **Figma to Code:** Translated a UI design into a functional webpage using HTML and CSS  
+* **Responsive Layout:** Designed to adapt across mobile, tablet, and desktop using media queries  
+* **Layout Techniques:** Built with Flexbox for structured and flexible sections  
+* **Clean UI:** Simple, professional design with consistent spacing and typography  
+* **Optimized Assets:** Used SVGs and optimized images for better performance  
